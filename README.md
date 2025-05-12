@@ -1,8 +1,5 @@
 # CS50 AI Project: TicTacToe
 
-## CS50 Web - Programming with Python and JavaScript
-
-
 ### Project Aims:
 
 The aim of this project is to use Minimax Algorithm to implement an AI to play Tic-Tac-Toe optimally.
